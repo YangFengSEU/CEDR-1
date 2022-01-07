@@ -6,8 +6,8 @@ This repository is for Contrastive Embedding Distribution Refinement and Entropy
 
 
 ## Network Architecture
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 
-![](D:\CEDR\img\CEDR.png)
 
 
 
